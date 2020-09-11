@@ -17,6 +17,7 @@ To open a *Surf’n’Shake* shop, a shop that sells surf boards and ice cream i
 This shop can easily become a popular spot, potentially expanding to other Hawaiian Islands and other further-distance islands. Because of the potential quick turn-around, the analysis is built by using quick and fast tools:
 
 •	**SQLite** a popular database engine, a version of SQL, that is stored locally and supports quick testing and easy prototyping. 
+
 •	**SQLAlchemy** a query tool design for SQLite to query SQLite databases.
 
 ## Resources 
