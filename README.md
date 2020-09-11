@@ -8,6 +8,11 @@ To open a *Surf’n’Shake* shop, a shop that sells surf boards and ice cream i
 - Temperature analysis for June and December from 2010 to 2017.
 - Rainfall analysis for June and December from 2010 to 2017.
 
+<p align="center">
+<img src="Graphics/SurfBoards.PNG" width="17%" height="17%">
+</p>
+
+
 ### Background
 This shop can easily become a popular spot, potentially expanding to other Hawaiian Islands and other further-distance islands. Because of the potential quick turn-around, the analysis is built by using quick and fast tools:
 
