@@ -9,7 +9,7 @@ To open a *Surf’n’Shake* shop, a shop that sells surf boards and ice cream i
 - Rainfall analysis for June and December from 2010 to 2017.
 
 <p align="center">
-<img src="Graphics/SurfBoards.PNG" width="17%" height="17%">
+<img src="Graphics/SurfBoards.PNG" width="40%" height="40%">
 </p>
 
 
