@@ -3,7 +3,7 @@
 
 ## Project Overview 
 ### Purpose
-To open a *Surf’n’Shake* shop, a shop that sells surf boards and ice cream in Oahu, Hawaii, the weather has to be in our favor most days of a year. A perfect spot for the shop is a place with the right balance of warm temperatures, sunny days throughout the year and just enough rain to keep the vegetation green. If those criteria are met, we can be confident that new shop will rise and shine. To ensure that we will choose the right spot, I want to make some data-driven decisions; therefore, this analysis focuses on the temperature and rainfall for the past 7 years from 2010 to 2017, specifically for June and December, the two months that are apart enough to ensure that we have a good condition year-round. In order to have enough data I am analyzing data form six weather stations in Oahu, Hawaii. The analysis consists of two parts:
+To open a *Surf’n’Shake* shop, a shop that sells surf boards and ice cream in Oahu, Hawaii, the weather has to be in our favor most days of a year. A perfect spot for the shop is a place with the right balance of warm temperatures, sunny days throughout the year and just enough rain to keep the vegetation green. If those criteria are met, we can be confident that new shop will rise and shine. To ensure that we will choose the right spot, I want to make some data-driven decisions; therefore, this analysis focuses on the temperature and rainfall for the past 7 years from 2010 to 2017, specifically for June and December, the two months that are apart enough to ensure that we have a good condition year-round. In order to have enough data, I am analyzing data from six weather stations in Oahu, Hawaii. The analysis consists of two parts:
 
 - Temperature analysis for June and December from 2010 to 2017.
 - Rainfall analysis for June and December from 2010 to 2017.
@@ -40,7 +40,7 @@ The analysis focuses on the temperature and rainfall from six different weather 
 ### Comparison of the Temperatures for June and December 
 
 **1.	Number of data**
-  - There is less data for December (1517 data points) than for June (1700 data points).
+  - There are less data for December (1517 data points) than for June (1700 data points).
 
 **2.	Dispersion of the data**
   -	Temperatures are more spread out in December (std = 3.7) than in June (std = 3.3).
@@ -63,7 +63,7 @@ Measures of Central Tendency of Temperatures for December and June in Oahu, Hawa
 ### Comparison of the Rainfall for June and December
 
 **1.	Number of data**
-  - There is less data for December (1405 data points) than for June (1574 data points).
+  - There are less data for December (1405 data points) than for June (1574 data points).
 
 **2.	Dispersion of the data**
   -	Rainfall quantity is more spread out in December (std = 0.5) than in June (std = 0.33).
